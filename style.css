@@ -1,0 +1,36 @@
+#root {
+    padding: 125px;
+}
+
+/*** FONT AWESOME CSS FIXES ***/
+.fa-twitter{
+    color: lightskyblue;
+}
+
+.fa-facebook{
+    color: blue;
+}
+
+.fa-quote-left{
+    font-size: 70px !important;
+}
+
+/*** BULMA FRAMEWORK CSS FIXES ***/
+.card-footer-item:hover{
+    background: lightcyan;
+}
+
+.title{
+    transition: color 800ms;
+    transition: opacity 1000ms;
+}
+
+.subtitle{
+    transition: color 800ms;
+    transition: opacity 1000ms;
+    margin-top: 25px !important;
+    text-align: right !important;
+}
+
+
+
